@@ -1,2 +1,2 @@
 # jiyuritsu
-Text editor for writers
+UNIX text editor for writers.
