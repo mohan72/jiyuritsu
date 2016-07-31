@@ -22,4 +22,9 @@ I started scouring the web and found many fantastic books and pages dedicated to
 
 Haiku is a form of minimalist Japanese poetry. To attain its minimalist nirvana, Haiku has a rigid three sentence structure and uses just 17 syllables in a 5-7-5 format. My text editor is also about simple things - a minimal set of essential editing features. At the same time I don't want it to be too restrictive. That is where jiyuritsu comes in. Jiyuritsu is freeform haiku without the 17-syllable restriction. I hope you find the 'jiyuritsu' text editor useful. If not, feel free to modify it and make it useful in your own way. At the moment it is less than 1500 lines of code and pretty easy to tinker with. There are only a handful of functions that do all the heavy lifting.
 
+Any help to add features and to debug is welcome. Some of the key features missing:
+
+1. Copy and Paste is completely missing. This makes the editor unsuitable for any serious work.
+2. jiyuritsu uses unnamed.txt as an empty file at startup if no filename is provided. Changing this behaviour would help.
+
 Writing. Alone?
