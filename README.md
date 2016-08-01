@@ -24,7 +24,7 @@ Haiku is a form of minimalist Japanese poetry. To attain its minimalist nirvana,
 
 Any help to add features and to debug is welcome. Some of the key features missing:
 
-1. Copy and Paste is completely missing. This makes the editor unsuitable for any serious work.
+1. Copy and Paste is yet to be implemented.
 2. jiyuritsu uses unnamed.txt as an empty file at startup if no filename is provided. Changing this behaviour would help.
 
 Writing. Alone?
